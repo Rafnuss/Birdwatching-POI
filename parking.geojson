@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "P1",
         "nb-place": 100,
         "hotspot-id": "L2815445",
         "price": "timestamp: 5h",
@@ -23,7 +24,8 @@
         "nb-place": 100,
         "hotspot-id": "L2815445",
         "price": "charged: ",
-        "description": ""
+        "description": "",
+        "id": "P2"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@
         "nb-place": 5,
         "hotspot-id": "L3587432",
         "price": "free",
-        "description": "at the end of the road. not proper place but ok to park."
+        "description": "at the end of the road. not proper place but ok to park.",
+        "id": "P3"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +58,8 @@
         "nb-place": 30,
         "hotspot-id": "L3605942",
         "price": "maybe private?",
-        "description": "Accessible from the road north."
+        "description": "Accessible from the road north.",
+        "id": "P4"
       },
       "geometry": {
         "type": "Point",
@@ -68,7 +72,10 @@
     {
       "type": "Feature",
       "properties": {
-        "nb-place": ""
+        "nb-place": 20,
+        "id": "P5",
+        "hotspot-id": "L4031987",
+        "price": "free"
       },
       "geometry": {
         "type": "Point",
@@ -80,7 +87,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P6",
+        "price": "free",
+        "hotspot-id": "L3699976",
+        "nb-place": 10
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -91,7 +103,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P7",
+        "hotspot-id": "L2758150",
+        "nb-place": 10,
+        "price": "free"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -102,18 +119,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.385980248451233,
-          46.4642736520439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
+      "properties": {
+        "price": "free",
+        "id": "P8",
+        "nb-place": 5,
+        "hotspot-id": "L4188336",
+        "description": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -124,7 +136,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P9",
+        "nb-place": 20,
+        "hotspot-id": "L4188336",
+        "price": "free"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -135,7 +152,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P10",
+        "nb-place": 30,
+        "hotspot-id": "L3012485",
+        "price": "free",
+        "description": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,7 +169,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P11",
+        "nb-place": 50,
+        "hotspot-id": "L1166823",
+        "price": "free?",
+        "description": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -157,7 +186,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P12",
+        "nb-place": 30,
+        "hotspot-id": "L1763098",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -168,7 +202,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P13",
+        "nb-place": "",
+        "description": "",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -179,7 +218,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P14",
+        "nb-place": "",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -190,7 +233,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P15",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -201,7 +247,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P16",
+        "nb-place": 5,
+        "hotspot-id": "L2385196",
+        "price": "free"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -212,7 +263,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P17",
+        "nb-place": 10,
+        "hotspot-id": "L2385196",
+        "price": "free"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -223,7 +279,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P18",
+        "nb-place": 20,
+        "hotspot-id": "L2385196",
+        "price": "charged"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -234,7 +295,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P19",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -245,7 +309,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P20",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -256,7 +323,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P21",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -267,7 +337,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P22",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -278,7 +351,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P23",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -289,7 +365,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P24",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -300,7 +379,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P25",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -311,7 +393,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "P26",
+        "price": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
