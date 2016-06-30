@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "ID": "L2815445",
-        "Name": "Ile de Preverenge",
         "description": "good for migrant",
         "website": [
           "http://www.oiseau.ch/index.php?nav=11"
@@ -13,7 +12,8 @@
         "parkingID": [
           "P1",
           "P2"
-        ]
+        ],
+        "name": "Ile de Preverenge"
       },
       "geometry": {
         "type": "Polygon",
@@ -74,11 +74,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Teppes de Verbois",
         "parkingID": "P5",
         "ID": "L4031987",
         "website": "http://ge.ch/nature/information-nature/milieux/milieux-proteges/teppes-de-verbois-reserve-naturelle",
-        "description": ""
+        "description": "",
+        "name": "Teppes de Verbois"
       },
       "geometry": {
         "type": "Polygon",
@@ -152,10 +152,10 @@
       "type": "Feature",
       "properties": {
         "ID": "L3699976",
-        "Name": "Barrage de Verbois",
         "description": "",
         "website": "",
-        "parkingID": "P6"
+        "parkingID": "P6",
+        "name": "Barrage de Verbois"
       },
       "geometry": {
         "type": "Polygon",
@@ -224,10 +224,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Marais de Sionnet",
         "website": "http://www.gobg.ch/index.php?m_id=40049&id_bon_coin=49",
         "ID": "L2758150",
-        "parkingID": "P7"
+        "parkingID": "P7",
+        "name": "Marais de Sionnet"
       },
       "geometry": {
         "type": "Polygon",
@@ -277,10 +277,10 @@
       "type": "Feature",
       "properties": {
         "ID": "L1056225",
-        "Name": "Pointe à la Bise",
         "description": "",
         "website": "http://www.pronatura-ge.ch/centre-nature-pointe-a-la-bise",
-        "parkingID": ""
+        "parkingID": "",
+        "name": "Pointe Ã  la Bise"
       },
       "geometry": {
         "type": "Polygon",
@@ -330,9 +330,9 @@
       "type": "Feature",
       "properties": {
         "ID": "L1433872",
-        "Name": "Rade de Genève ",
         "website": "",
-        "parkingID": ""
+        "parkingID": "",
+        "name": "Rade de GenÃ¨ve "
       },
       "geometry": {
         "type": "Polygon",
@@ -414,9 +414,9 @@
       "type": "Feature",
       "properties": {
         "ID": "L4723633",
-        "Name": "Champagne Genevoise",
         "website": "",
-        "parkingID": ""
+        "parkingID": "",
+        "name": "Champagne Genevoise"
       },
       "geometry": {
         "type": "Polygon",
@@ -538,7 +538,7 @@
       "type": "Feature",
       "properties": {
         "ID": "L2545642",
-        "Name": "Le Bois-de-Chênes"
+        "name": "Le Bois-de-ChÃªnes"
       },
       "geometry": {
         "type": "Polygon",
@@ -623,9 +623,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Champs Corbes",
         "ID": "L3605942",
-        "parkingID": "P4"
+        "parkingID": "P4",
+        "name": "Champs Corbes"
       },
       "geometry": {
         "type": "Polygon",
@@ -659,9 +659,9 @@
       "type": "Feature",
       "properties": {
         "ID": "L3012485",
-        "Name": "Le Creux de Terre",
         "website": "http://www.creuxdeterre.ch/",
-        "parkingID": "P10"
+        "parkingID": "P10",
+        "name": "Le Creux de Terre"
       },
       "geometry": {
         "type": "Polygon",
@@ -719,8 +719,8 @@
       "type": "Feature",
       "properties": {
         "ID": "L1166823",
-        "Name": "Promenade Robert Hainard",
-        "parkingID": "P11"
+        "parkingID": "P11",
+        "name": "Promenade Robert Hainard"
       },
       "geometry": {
         "type": "Polygon",
@@ -770,9 +770,9 @@
       "type": "Feature",
       "properties": {
         "ID": "L1763098",
-        "Name": "Champ Pittet",
         "website": "http://www.pronatura-champ-pittet.ch/",
-        "parkingID": "P12"
+        "parkingID": "P12",
+        "name": "Champ Pittet"
       },
       "geometry": {
         "type": "Polygon",
@@ -877,10 +877,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Les Grangettes (Zone Générale)",
         "ID": "L2385196",
         "website": "http://www.pronatura-grangettes.ch/",
-        "parkingID": "P16,P17,P18"
+        "parkingID": "P16,P17,P18",
+        "name": "Les Grangettes (Zone GÃ©nÃ©rale)"
       },
       "geometry": {
         "type": "Polygon",
@@ -957,10 +957,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Col de Jaman",
         "ID": "L3091923",
         "website": "http://www.oiseau.ch/index.php?nav=12",
-        "parkingID": ""
+        "parkingID": "",
+        "name": "Col de Jaman"
       },
       "geometry": {
         "type": "Polygon",
@@ -1002,9 +1002,9 @@
       "type": "Feature",
       "properties": {
         "ID": "L4188336",
-        "Name": "Lac de Joux--Tête du Lac",
         "website": "",
-        "parkingID": "P8,P9"
+        "parkingID": "P8,P9",
+        "name": "Lac de Joux--TÃªte du Lac"
       },
       "geometry": {
         "type": "Polygon",
