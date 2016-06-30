@@ -1,0 +1,36 @@
+/*Overwrite Avada theme*/
+body{
+    top:0;
+    padding-top:0 ;
+    position: absolute;
+}
+#wrapper{
+    max-width:inherit !important;
+    height:100%;
+}
+#main{
+    padding-right:0 !important;
+    padding-left:0 !important;
+    height:100%;
+}
+#wrapper, #main, .fusion-row, #content, #post-1797, .post-content{
+    height:100%;
+}
+.post-content{
+    padding-top:50px;
+}
+html{
+    overflow:hidden !important;
+}
+
+/*Overwrite BootLeaf*/
+#map{
+    box-shadow: none;
+}
+#navbar-poweredby{
+    font-family: 'Gloria Hallelujah';
+    font-weight: 400;
+    padding-left: 30px;
+    font-size:14px;
+    padding-right: 5px;
+}

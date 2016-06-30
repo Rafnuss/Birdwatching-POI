@@ -1,0 +1,14 @@
+{
+  "name": "bootleaf",
+  "homepage": "https://github.com/bmcbride/bootleaf",
+  "_release": "42ac04d685",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "42ac04d68578dbd1466b462f59286faab0f780ae"
+  },
+  "_source": "git://github.com/bmcbride/bootleaf.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/bmcbride/bootleaf",
+  "_direct": true
+}

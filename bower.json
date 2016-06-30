@@ -1,0 +1,34 @@
+{
+  "name": "Birdwatching-POI",
+  "homepage": "https://github.com/Rafnuss/Birdwatching-POI",
+  "authors": [
+    "rafnuss <rafnuss@gmail.com>"
+  ],
+  "description": "",
+  "main": "birdwatching-poi.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^0.7.7",
+    "leaflet-providers": "^1.1.11",
+    "leaflet-omnivore": "^0.3.2",
+    "Leaflet": "https://github.com/Leaflet/Leaflet.markercluster",
+    "leaflet-locatecontrol": "https://github.com/domoritz/leaflet-locatecontrol",
+    "leaflet.markercluster": "git://github.com/Leaflet/Leaflet.markercluster#^0.5.0",
+    "leaflet-groupedlayercontrol": "git://github.com/ismyrnow/Leaflet.groupedlayercontrol#^0.4.0",
+    "leaflet.locatecontrol": "git://github.com/domoritz/leaflet-locatecontrol#^0.52.0",
+    "bootleaf": "git://github.com/bmcbride/bootleaf",
+    "list.js": "^1.2.0",
+    "typeahead.js": "git://github.com/twitter/typeahead.js#^0.11.1",
+    "handlebars.js": "git://github.com/wycats/handlebars.js/#^4.0.5",
+    "Leaflet.awesome-markers": "git://github.com/lvoogdt/Leaflet.awesome-markers#^2.0.2",
+    "Ionicons": "git://github.com/driftyco/ionicons#^2.0.1",
+    "font-awesome": "git://github.com/FortAwesome/Font-Awesome/#^4.6.3"
+  }
+}
