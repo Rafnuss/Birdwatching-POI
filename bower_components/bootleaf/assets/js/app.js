@@ -6,11 +6,12 @@ var map, featureList, hotspotSearch=[], pathSearch=[], viewpointSearch=[], parki
 MapboxToken = 'pk.eyJ1IjoicmFmbnVzcyIsImEiOiIzMVE1dnc0In0.3FNMKIlQ_afYktqki-6m0g';
 
 // Link
-var root = 'http://zoziologie.raphaelnussbaumer.com/birdwatching-poi/';
+var root = 'http://zoziologie.raphaelnussbaumer.com/wp-content/plugins/Birdwatching-POI/';
 var icon={};
-icon.parking = 'car';
-icon.viewpoint= "binocular";
-
+icon.parking = 'parking';
+icon.viewpoint= "binoculars";
+icon.hotspot= 'star';
+icon.path = 'road';
 
 
 // Wait for the page to load
@@ -106,20 +107,44 @@ jQuery(document).ready(function(){
         }
     }
 
+    function addFeature(l,t){
+        if (t=='viewpoint'){
+            var txt = 'Viewpoint';
+            var lat = l.getLatLng().lat;
+            var lng = l.getLatLng().lng;
+        } else if (t =='parking'){
+            var txt = 'Parking';
+            var lat = l.getLatLng().lat;
+            var lng = l.getLatLng().lng;
+        } else if (t == 'hotspot'){
+            console.log(l)
+            var txt = l.feature.properties.name;
+            var lat = l.getBounds().getCenter().lat;
+            var lng = l.getBounds().getCenter().lng;
+        } else if (t == 'path'){
+            var txt = 'Path';
+            var lat = l.getBounds().getCenter().lat;
+            var lng = l.getBounds().getCenter().lng;
+        }
+         
+        var str = '<tr class="feature-row" id="' + L.stamp(l) + '" lat="' + lat + '" lng="' + lng + '"><td style="vertical-align: middle;">';
+        str = str + '<span class="glyphicon glyphicon-' + icon[t] + '"></span>';
+        str = str + '</td><td class="feature-name">';
+        str = str + txt;
+       str = str + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>';
+        $("#feature-list tbody").append(str);
+     }
+
     function syncSidebar() {
         /* Empty sidebar features */
         $("#feature-list tbody").empty();
 
         /* Loop through layers and add only features which are in the map bounds */
-        /*hotspots.eachLayer(function (layer) {
-            if (map.hasLayer(hotspotLayer)) {
-                if (map.getBounds().contains(layer.getLatLng())) {
-                    $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src=' + 'icon' + '></td><td class="feature-name">' + 'parking' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
-                }
-            }
+        hotspots.eachLayer(function (layer) {
+                addFeature(layer,'hotspot')
         });
 
-        paths.eachLayer(function (layer) {
+   /*     paths.eachLayer(function (layer) {
             if (map.hasLayer(pathLayer)) {
                 if (map.getBounds().contains(layer.getLatLng())) {
                     $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src=' + 'icon' + '></td><td class="feature-name">' + 'parking' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
@@ -130,7 +155,7 @@ jQuery(document).ready(function(){
         viewpoints.eachLayer(function (layer) {
             if (map.hasLayer(viewpointLayer)) {
                 if (map.getBounds().contains(layer.getLatLng())) {
-                    $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><i class="fa fa-' + icon.viewpoint + 'fa-lg"></i></td><td class="feature-name">' + 'Viewpoint ('layer.feature.properties.type  + ')</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+                    addFeature(layer,'viewpoint')
                 }
             }
         });
@@ -138,7 +163,7 @@ jQuery(document).ready(function(){
         parkings.eachLayer(function (layer) {
             if (map.hasLayer(parkingLayer)) {
                 if (map.getBounds().contains(layer.getLatLng())) {
-                    $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><i class="fa fa-' + icon.parking + 'fa-lg"></i></td><td class="feature-name">' + 'Parking (' + layer.feature.properties.id ')</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+                    addFeature(layer,'parking')
                 }
             }
         });
@@ -224,8 +249,9 @@ jQuery(document).ready(function(){
             });
         }
     });
-    $.getJSON("http://zoziologie.raphaelnussbaumer.com/wp-content/plugins/Birdwatching-POI/hotspot.geojson", function (data) {
+    $.getJSON(root+"GeoJson/hotspot.geojson", function (data) {
         hotspots.addData(data);
+        map.addLayer(hotspots);
     });
 
 
@@ -275,8 +301,9 @@ jQuery(document).ready(function(){
             });
         }
     });
-    $.getJSON("http://zoziologie.raphaelnussbaumer.com/wp-content/plugins/Birdwatching-POI/path.geojson", function (data) {
+    $.getJSON(root+"GeoJson/path.geojson", function (data) {
         paths.addData(data);
+        map.addLayer(paths)
     });
 
 
@@ -284,6 +311,7 @@ jQuery(document).ready(function(){
     /* Single marker cluster layer to hold all clusters */
     var markerClusters = new L.MarkerClusterGroup({
         spiderfyOnMaxZoom: true,
+        maxClusterRadius: 50,
         showCoverageOnHover: false,
         zoomToBoundsOnClick: true,
         disableClusteringAtZoom: 16
@@ -312,7 +340,7 @@ jQuery(document).ready(function(){
                         highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
                     }
                 });
-                $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><i class="fa fa-' + icon.viewpoint + 'fa-lg"></i></td><td class="feature-name">' +  + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+                addFeature(layer,'viewpoint')
                 viewpointSearch.push({
                     name: 'viewpoint',
                     address: '',
@@ -324,8 +352,8 @@ jQuery(document).ready(function(){
             }
         }
     });
-    $.getJSON("http://zoziologie.raphaelnussbaumer.com/wp-content/plugins/Birdwatching-POI/viewpoint.geojson", function (data) {
-        parkings.addData(data);
+    $.getJSON(root+"GeoJson/viewpoint.geojson", function (data) {
+        viewpoints.addData(data);
         map.addLayer(viewpointLayer);
     })
 
@@ -352,7 +380,7 @@ jQuery(document).ready(function(){
                         highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
                     }
                 });
-                $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><i class="fa fa-' + icon.parking + 'fa-lg"></i></td><td class="feature-name">' + layer.feature.properties.NAME + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+                addFeature(layer,'parking')
                 parkingSearch.push({
                     name: 'Parking',
                     address: '?',
@@ -364,7 +392,7 @@ jQuery(document).ready(function(){
             }
         }
     });
-    $.getJSON("http://zoziologie.raphaelnussbaumer.com/wp-content/plugins/Birdwatching-POI/parking.geojson", function (data) {
+    $.getJSON(root+"GeoJson/parking.geojson", function (data) {
         parkings.addData(data);
         map.addLayer(parkingLayer);
     })
@@ -486,7 +514,11 @@ jQuery(document).ready(function(){
 
     var groupedOverlays = {
         "Points of Interest": {
-            ["<img src=" + 'icon'  + " width='24' height='28'>&nbsp;Parkings"]: parkingLayer
+            ['<span class="glyphicon glyphicon-' + icon.hotspot+ '"></span>&nbsp;Hotspots']: hotspots,
+            ['<span class="glyphicon glyphicon-' + icon.path+ '"></span>&nbsp;Paths']: paths,
+            ['<span class="glyphicon glyphicon-' + icon.viewpoint + '"></span>&nbsp;Viewpoints']: viewpointLayer,
+            ['<span class="glyphicon glyphicon-' + icon.parking + '"></span>&nbsp;Parking']: parkingLayer,
+
         },
         "Reference": {
         }
