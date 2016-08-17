@@ -217,6 +217,137 @@
           41.278683305343385
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguait de la Viadala",
+        "type": "viewpoint",
+        "categorie": "hide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06218421459198,
+          41.27906024126047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguait de la Maresma",
+        "type": "viewpoint",
+        "categorie": "hide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.064979076385498,
+          41.28150271308869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguait de la Bassa dels Polancres",
+        "type": "viewpoint",
+        "categorie": "hide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0616383850574493,
+          41.2803376750029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de la riera de San Miquel",
+        "type": "viewpoint",
+        "categorie": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0660077035427094,
+          41.27541677217511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de la Reguera Salabrosa",
+        "type": "viewpoint",
+        "categorie": "hide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0557576417922974,
+          41.28855447845459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.082831859588623,
+          41.28046718069644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "tour",
+        "name": "Mirador de la Platja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.084411010146141,
+          41.280912638006974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10462749004364,
+          41.28819069755586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "tour",
+        "name": "Mirador de l'Estany de l'illa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.105961889028549,
+          41.288365030483426
+        ]
+      }
     }
   ]
 }
