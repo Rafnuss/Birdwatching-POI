@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "delta del Llobregat",
+        "type": "hotspot",
+        "categorie": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1177005767822266,
+              41.31456308095412
+            ],
+            [
+              2.138643264770508,
+              41.29728360396018
+            ],
+            [
+              2.1395015716552734,
+              41.290963845888356
+            ],
+            [
+              2.13632583618164,
+              41.290125464637704
+            ],
+            [
+              2.132892608642578,
+              41.29541353525278
+            ],
+            [
+              2.07916259765625,
+              41.27509726601666
+            ],
+            [
+              2.0654296875,
+              41.2733555771884
+            ],
+            [
+              2.054014205932617,
+              41.28212805583626
+            ],
+            [
+              2.0557308197021484,
+              41.28967402411714
+            ],
+            [
+              2.0586490631103516,
+              41.29089935540543
+            ],
+            [
+              2.0708370208740234,
+              41.28490146184241
+            ],
+            [
+              2.0705795288085938,
+              41.281612060318906
+            ],
+            [
+              2.073068618774414,
+              41.27954803745108
+            ],
+            [
+              2.1049976348876953,
+              41.29122180718261
+            ],
+            [
+              2.1012210845947266,
+              41.29786395920916
+            ],
+            [
+              2.115297317504883,
+              41.31243563137121
+            ],
+            [
+              2.1177005767822266,
+              41.31456308095412
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguait de Cal Tet",
+        "type": "viewpoint",
+        "categorie": "hide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.124030590057373,
+          41.301894061546335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguait del Sabogal",
+        "type": "viewpoint",
+        "categorie": "hide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1223676204681396,
+          41.30395334769756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de la Fillola Quatre Hores",
+        "type": "viewpoint",
+        "categorie": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1192455291748047,
+          41.305613624992105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Cal Tet",
+        "type": "viewpoint",
+        "categorie": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1185877174139023,
+          41.303877284223844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de la Bunyola",
+        "type": "viewpoint",
+        "categorie": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.124744057655334,
+          41.29647452370212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de la Desembocadura",
+        "type": "viewpoint",
+        "categorie": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1318894624710083,
+          41.30124422438529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Cal Beitas",
+        "type": "viewpoint",
+        "categorie": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.127966731786728,
+          41.3033518897276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "type": "parking",
+        "categorie": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.112472951412201,
+          41.30884540276045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parking",
+        "categorie": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0627689361572266,
+          41.278683305343385
+        ]
+      }
+    }
+  ]
+}
