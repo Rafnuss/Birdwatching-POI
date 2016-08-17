@@ -348,6 +348,152 @@
           41.288365030483426
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "tour",
+        "name": "Mirador de cal Lluquer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11625050753355,
+          41.31264868165237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de cal Malet",
+        "type": "viewpoint",
+        "categorie": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1231166273355484,
+          41.30791305937397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Semafor",
+        "type": "viewpoint",
+        "categorie": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11936354637146,
+          41.29377315067316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "natural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1377849578857417,
+          41.29328546081616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "tour",
+        "name": "Mirador de la Vidala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.060086727142334,
+          41.280074127603335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "type": "viewpoint",
+        "categorie": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.058783173561096,
+          41.281839824468214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.058960199356079,
+          41.284679251061036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.065804190933704,
+          41.28097335904517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0637935400009155,
+          41.28049539980181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "wall",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0632946491241455,
+          41.28036639807774
+        ]
+      }
     }
   ]
 }
