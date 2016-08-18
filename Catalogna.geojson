@@ -111,7 +111,8 @@
       "properties": {
         "name": "",
         "type": "parking",
-        "categorie": "open"
+        "categorie": "open",
+        "marker-symbol":"parking"
       },
       "geometry": {
         "type": "Point",
