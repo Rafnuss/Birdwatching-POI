@@ -1166,7 +1166,7 @@
         "name": "Cal Sinén",
         "type": "viewpoint",
         "categorie": "",
-        "eBird": ""
+        "link": ""
       },
       "geometry": {
         "type": "Point",
@@ -1182,7 +1182,7 @@
         "name": "Estany d'Ivars",
         "type": "hotpost",
         "categorie": "main",
-        "eBird": "http://ebird.org/ebird/hotspot/L2575103"
+        "link": "http://ebird.org/ebird/hotspot/L2575103"
       },
       "geometry": {
         "type": "Polygon",
@@ -1306,7 +1306,7 @@
         "categorie": "sub",
         "type": "hotspot",
         "name": "Estany d'Ivars--Ca l'Aragonès",
-        "eBird": "http://ebird.org/ebird/hotspot/L4793385"
+        "link": "http://ebird.org/ebird/hotspot/L4793385"
       },
       "geometry": {
         "type": "Polygon",
@@ -1350,7 +1350,7 @@
         "name": "Estany d'Ivars--Canyissar de depuració",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L4836761"
+        "link": "http://ebird.org/ebird/hotspot/L4836761"
       },
       "geometry": {
         "type": "Polygon",
@@ -1938,7 +1938,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1973,7 +1976,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2016,7 +2022,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2087,7 +2096,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2126,7 +2138,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2157,7 +2172,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2167,12 +2185,12 @@
               41.3062301735145
             ],
             [
-              2.1217453479766846,
-              41.30710058503307
+              2.1216273307800293,
+              41.30708446640684
             ],
             [
-              2.1194279193878174,
-              41.30905090939596
+              2.1194064617156982,
+              41.309034791251904
             ],
             [
               2.117968797683716,
@@ -2188,28 +2206,55 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub",
+        "name": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              2.1217668056488037,
-              41.307479371602405
+              2.1266913414001465,
+              41.302837069537944
             ],
             [
-              2.12211012840271,
-              41.307664734440785
+              2.128429412841797,
+              41.30386066106877
             ],
             [
-              2.1224319934844966,
-              41.30784203753224
+              2.1180009841918945,
+              41.31211328446841
             ],
             [
-              2.1217668056488037,
-              41.307479371602405
+              2.1167349815368652,
+              41.31144440956006
+            ],
+            [
+              2.1265947818756104,
+              41.30290154821877
+            ],
+            [
+              2.1266913414001465,
+              41.302837069537944
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turó de la Magarola",
+        "type": "hotspot",
+        "categorie": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1304893493652344,
+          41.443594964615215
         ]
       }
     }
