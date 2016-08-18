@@ -1202,7 +1202,7 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "",
-        "title": "Cal SinÃ©n",
+        "title": "Cal SinÃÂ©n",
         "description": ""
       },
       "geometry": {
@@ -1347,7 +1347,7 @@
       "properties": {
         "categorie": "sub",
         "type": "hotspot",
-        "title": "Estany d'Ivars--Ca l'AragonÃ¨s",
+        "title": "Estany d'Ivars--Ca l'AragonÃÂ¨s",
         "description": "http://ebird.org/ebird/hotspot/L4793385"
       },
       "geometry": {
@@ -1391,7 +1391,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": "Estany d'Ivars--Canyissar de depuraciÃ³",
+        "title": "Estany d'Ivars--Canyissar de depuraciÃÂ³",
         "description": "http://ebird.org/ebird/hotspot/L4836761"
       },
       "geometry": {
@@ -1655,7 +1655,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": "Delta del Llobregat PNat--Mirador de Cal FrancÃ¨s i Platja del Remolar"
+        "title": "Delta del Llobregat PNat--Mirador de Cal FrancÃÂ¨s i Platja del Remolar"
       },
       "geometry": {
         "type": "Polygon",
@@ -2176,7 +2176,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": " Riu Llobregat--Ãltim tram"
+        "title": " Riu Llobregat--ÃÂltim tram"
       },
       "geometry": {
         "type": "Polygon",
@@ -2246,7 +2246,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": "Delta del Llobregat PNat--Calaixos de depuraciÃ³"
+        "title": "Delta del Llobregat PNat--Calaixos de depuraciÃÂ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2285,7 +2285,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "main",
-        "title": "TurÃ³ de la Magarola",
+        "title": "TurÃÂ³ de la Magarola",
         "marker-symbol": ""
       },
       "geometry": {
@@ -2349,7 +2349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": " Delta de l'Ebre PNat--El GolerÃ³"
+        "title": " Delta de l'Ebre PNat--El GolerÃÂ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2406,7 +2406,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Delta de l'Ebre PNat--Canyissar depuraciÃ³ GolerÃ³"
+        "title": "Delta de l'Ebre PNat--Canyissar depuraciÃÂ³ GolerÃÂ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2528,7 +2528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Delta de l'Ebre PNat--RacÃ³ del Fangar"
+        "title": "Delta de l'Ebre PNat--RacÃÂ³ del Fangar"
       },
       "geometry": {
         "type": "Polygon",
@@ -2645,6 +2645,207 @@
               40.76211351685853
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6977739930152893,
+          40.57801988627609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "",
+        "categorie": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.6761741638183594,
+              40.587624565557874
+            ],
+            [
+              0.6864738464355468,
+              40.57602136929037
+            ],
+            [
+              0.6921386718749999,
+              40.57602136929037
+            ],
+            [
+              0.70037841796875,
+              40.58462617961113
+            ],
+            [
+              0.6917953491210938,
+              40.588928169693745
+            ],
+            [
+              0.6844139099121094,
+              40.58984067746924
+            ],
+            [
+              0.6761741638183594,
+              40.587624565557874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "",
+        "categorie": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.5839920043945312,
+              40.57902014096309
+            ],
+            [
+              0.5961799621582031,
+              40.551374198715166
+            ],
+            [
+              0.624847412109375,
+              40.5442000368773
+            ],
+            [
+              0.6705093383789062,
+              40.55150463090774
+            ],
+            [
+              0.7032966613769531,
+              40.567024247788396
+            ],
+            [
+              0.7194328308105469,
+              40.58814601026153
+            ],
+            [
+              0.7039833068847656,
+              40.59531546263834
+            ],
+            [
+              0.6645011901855469,
+              40.60235381346053
+            ],
+            [
+              0.6045913696289062,
+              40.59635822803742
+            ],
+            [
+              0.5839920043945312,
+              40.57902014096309
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categorie": "",
+        "type": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7064831256866455,
+          40.588773368032214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7758986949920654,
+          40.662042037574615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7568764686584473,
+          40.646395909532494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.742800235748291,
+          40.6306463687171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6947967410087585,
+          40.65899001818671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6860178709030151,
+          40.65363440402551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.674736499786377,
+          40.65768574598159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6399160623550415,
+          40.64294834376282
         ]
       }
     }
