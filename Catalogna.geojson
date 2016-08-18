@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aguait de Cal Tet",
         "type": "viewpoint",
-        "categorie": "hide"
+        "categorie": "hide",
+        "title": "Aguait de Cal Tet",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -19,9 +20,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aguait del Sabogal",
         "type": "viewpoint",
-        "categorie": "hide"
+        "categorie": "hide",
+        "title": "Aguait del Sabogal",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -34,10 +36,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de la Fillola Quatre Hores",
         "type": "viewpoint",
         "categorie": "wall",
-        "marker-symbol": ""
+        "marker-symbol": "prison",
+        "title": "Mirador de la Fillola Quatre Hores"
       },
       "geometry": {
         "type": "Point",
@@ -50,9 +52,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de Cal Tet",
         "type": "viewpoint",
-        "categorie": "wall"
+        "categorie": "wall",
+        "title": "Mirador de Cal Tet",
+        "marker-symbol": "prison"
       },
       "geometry": {
         "type": "Point",
@@ -65,10 +68,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de la Bunyola",
         "type": "viewpoint",
         "categorie": "tour",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de la Bunyola"
       },
       "geometry": {
         "type": "Point",
@@ -81,10 +84,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de la Desembocadura",
         "type": "viewpoint",
         "categorie": "tour",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de la Desembocadura"
       },
       "geometry": {
         "type": "Point",
@@ -97,10 +100,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de Cal Beitas",
         "type": "viewpoint",
         "categorie": "tour",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de Cal Beitas"
       },
       "geometry": {
         "type": "Point",
@@ -113,10 +116,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
         "type": "parking",
         "categorie": "open",
-        "marker-symbol": "parking"
+        "marker-symbol": "parking",
+        "title": ""
       },
       "geometry": {
         "type": "Point",
@@ -144,9 +147,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aguait de la Viadala",
         "type": "viewpoint",
-        "categorie": "hide"
+        "categorie": "hide",
+        "title": "Aguait de la Viadala",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -159,9 +163,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aguait de la Maresma",
         "type": "viewpoint",
-        "categorie": "hide"
+        "categorie": "hide",
+        "title": "Aguait de la Maresma",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -174,9 +179,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aguait de la Bassa dels Polancres",
         "type": "viewpoint",
-        "categorie": "hide"
+        "categorie": "hide",
+        "title": "Aguait de la Bassa dels Polancres",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -189,10 +195,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de la riera de San Miquel",
         "type": "viewpoint",
         "categorie": "tour",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de la riera de San Miquel"
       },
       "geometry": {
         "type": "Point",
@@ -205,9 +211,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de la Reguera Salabrosa",
         "type": "viewpoint",
-        "categorie": "hide"
+        "categorie": "hide",
+        "title": "Mirador de la Reguera Salabrosa",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -236,8 +243,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "tour",
-        "name": "Mirador de la Platja",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de la Platja"
       },
       "geometry": {
         "type": "Point",
@@ -266,8 +273,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "tour",
-        "name": "Mirador de l'Estany de l'illa",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de l'Estany de l'illa"
       },
       "geometry": {
         "type": "Point",
@@ -282,8 +289,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "tour",
-        "name": "Mirador de cal Lluquer",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de cal Lluquer"
       },
       "geometry": {
         "type": "Point",
@@ -296,10 +303,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de cal Malet",
         "type": "viewpoint",
         "categorie": "tour",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de cal Malet"
       },
       "geometry": {
         "type": "Point",
@@ -312,9 +319,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador de Semafor",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "type": "viewpoint",
-        "categorie": ""
+        "categorie": "",
+        "title": "Mirador de Semafor"
       },
       "geometry": {
         "type": "Point",
@@ -343,8 +353,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "tour",
-        "name": "Mirador de la Vidala",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Mirador de la Vidala"
       },
       "geometry": {
         "type": "Point",
@@ -357,9 +367,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
         "type": "viewpoint",
-        "categorie": "wall"
+        "categorie": "wall",
+        "title": "",
+        "marker-symbol": "prison"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +385,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "wall",
-        "name": ""
+        "title": "",
+        "marker-symbol": "prison"
       },
       "geometry": {
         "type": "Point",
@@ -389,7 +401,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "wall",
-        "name": ""
+        "title": "",
+        "marker-symbol": "prison"
       },
       "geometry": {
         "type": "Point",
@@ -404,7 +417,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "wall",
-        "name": ""
+        "title": "",
+        "marker-symbol": "prison"
       },
       "geometry": {
         "type": "Point",
@@ -419,7 +433,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "wall",
-        "name": ""
+        "title": "",
+        "marker-symbol": "prison"
       },
       "geometry": {
         "type": "Point",
@@ -1076,7 +1091,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "hide",
-        "name": "Aguait de Vila-sana"
+        "title": "Aguait de Vila-sana",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -1089,10 +1105,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Terre de l'Estany",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "type": "viewpoint",
         "categorie": "tour",
-        "marker-symbol": "castle"
+        "marker-symbol": "monument",
+        "title": "Terre de l'Estany"
       },
       "geometry": {
         "type": "Point",
@@ -1107,7 +1125,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "hide",
-        "name": "Aguait Saulons del Suat"
+        "title": "Aguait Saulons del Suat",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -1122,7 +1141,8 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "hide",
-        "name": "Aguait d'Ivars"
+        "title": "Aguait d'Ivars",
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -1136,8 +1156,8 @@
       "type": "Feature",
       "properties": {
         "type": "viewpoint",
-        "name": "Mirador Vallmajor",
-        "categorie": "open"
+        "categorie": "open",
+        "title": "Mirador Vallmajor"
       },
       "geometry": {
         "type": "Point",
@@ -1150,9 +1170,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mirador Termenal",
         "type": "viewpoint",
-        "categorie": "open"
+        "categorie": "open",
+        "title": "Mirador Termenal"
       },
       "geometry": {
         "type": "Point",
@@ -1166,8 +1186,8 @@
       "type": "Feature",
       "properties": {
         "categorie": "open",
-        "name": "Perogola de l'Estany",
-        "type": "viewpoint"
+        "type": "viewpoint",
+        "title": "Perogola de l'Estany"
       },
       "geometry": {
         "type": "Point",
@@ -1180,10 +1200,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cal SinÃ©n",
         "type": "viewpoint",
         "categorie": "",
-        "link": ""
+        "title": "Cal SinÃ©n",
+        "description": ""
       },
       "geometry": {
         "type": "Point",
@@ -1196,10 +1216,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Estany d'Ivars",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0,
         "type": "hotpost",
         "categorie": "main",
-        "link": "http://ebird.org/ebird/hotspot/L2575103"
+        "title": "Estany d'Ivars",
+        "description": "http://ebird.org/ebird/hotspot/L2575103"
       },
       "geometry": {
         "type": "Polygon",
@@ -1322,8 +1347,8 @@
       "properties": {
         "categorie": "sub",
         "type": "hotspot",
-        "name": "Estany d'Ivars--Ca l'AragonÃ¨s",
-        "link": "http://ebird.org/ebird/hotspot/L4793385"
+        "title": "Estany d'Ivars--Ca l'AragonÃ¨s",
+        "description": "http://ebird.org/ebird/hotspot/L4793385"
       },
       "geometry": {
         "type": "Polygon",
@@ -1364,10 +1389,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Estany d'Ivars--Canyissar de depuraciÃ³",
         "type": "hotspot",
         "categorie": "sub",
-        "link": "http://ebird.org/ebird/hotspot/L4836761"
+        "title": "Estany d'Ivars--Canyissar de depuraciÃ³",
+        "description": "http://ebird.org/ebird/hotspot/L4836761"
       },
       "geometry": {
         "type": "Polygon",
@@ -1424,10 +1449,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta del Llobregat PNat--Remolar-Filipines",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L2723786"
+        "title": "Delta del Llobregat PNat--Remolar-Filipines"
       },
       "geometry": {
         "type": "Polygon",
@@ -1484,10 +1508,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": " Delta del Llobregat PNat--Bassa dels Pollancres",
-        "eBird": "http://ebird.org/ebird/hotspot/L4793396",
         "type": "hotspot",
-        "categorie": "sub"
+        "categorie": "sub",
+        "title": " Delta del Llobregat PNat--Bassa dels Pollancres"
       },
       "geometry": {
         "type": "Polygon",
@@ -1544,10 +1567,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta del Llobregat PNat--Riera de St. Climent",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L4853558"
+        "title": "Delta del Llobregat PNat--Riera de St. Climent"
       },
       "geometry": {
         "type": "Polygon",
@@ -1588,10 +1610,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta del Llobregat PNat--La Vidala",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L4793397"
+        "title": "Delta del Llobregat PNat--La Vidala"
       },
       "geometry": {
         "type": "Polygon",
@@ -1632,10 +1653,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta del Llobregat PNat--Mirador de Cal FrancÃ¨s i Platja del Remolar",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L4644452"
+        "title": "Delta del Llobregat PNat--Mirador de Cal FrancÃ¨s i Platja del Remolar"
       },
       "geometry": {
         "type": "Polygon",
@@ -1692,10 +1712,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta del Llobregat PNat--Pineda del Remolar",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L4853526"
+        "title": "Delta del Llobregat PNat--Pineda del Remolar"
       },
       "geometry": {
         "type": "Polygon",
@@ -1732,10 +1751,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta del Llobregat PNat--Pineda de Can Camins",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L4853529"
+        "title": "Delta del Llobregat PNat--Pineda de Can Camins"
       },
       "geometry": {
         "type": "Polygon",
@@ -1768,10 +1786,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": " Delta del Llobregat PNat--La Ricarda",
         "type": "hotspot",
         "categorie": "sub",
-        "eBird": "http://ebird.org/ebird/hotspot/L4853521"
+        "title": " Delta del Llobregat PNat--La Ricarda"
       },
       "geometry": {
         "type": "Polygon",
@@ -1828,10 +1845,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta del Llobregat PNat--Platja de Carrabiners",
-        "eBird": "http://ebird.org/ebird/hotspot/L4789810",
         "type": "hotspot",
-        "categorie": "sub"
+        "categorie": "sub",
+        "title": "Delta del Llobregat PNat--Platja de Carrabiners"
       },
       "geometry": {
         "type": "Polygon",
@@ -1864,10 +1880,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": " Delta del Llobregat PNat--Platja de l'Arana",
-        "eBird": "http://ebird.org/ebird/hotspot/L4853551",
         "type": "hotspot",
-        "categorie": "sub"
+        "categorie": "sub",
+        "title": " Delta del Llobregat PNat--Platja de l'Arana"
       },
       "geometry": {
         "type": "Polygon",
@@ -1908,10 +1923,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riu Llobregat--Desembocadura",
-        "eBird": "http://ebird.org/ebird/hotspot/L4853545",
         "type": "hotspot",
-        "categorie": "sub"
+        "categorie": "sub",
+        "title": "Riu Llobregat--Desembocadura"
       },
       "geometry": {
         "type": "Polygon",
@@ -1958,7 +1972,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "name": "Delta del Llobregat PNat--Ca l'Arana"
+        "title": "Delta del Llobregat PNat--Ca l'Arana"
       },
       "geometry": {
         "type": "Polygon",
@@ -1997,7 +2011,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "name": " Delta del Llobregat PNat--Pineda de Ca l'Arana"
+        "title": " Delta del Llobregat PNat--Pineda de Ca l'Arana"
       },
       "geometry": {
         "type": "Polygon",
@@ -2044,7 +2058,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "name": "Delta del Llobregat PNat--Observatori Cal Tet"
+        "title": "Delta del Llobregat PNat--Observatori Cal Tet"
       },
       "geometry": {
         "type": "Polygon",
@@ -2119,7 +2133,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "name": " Delta del Llobregat PNat--Observatori Sabogal"
+        "title": " Delta del Llobregat PNat--Observatori Sabogal"
       },
       "geometry": {
         "type": "Polygon",
@@ -2162,7 +2176,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "name": " Riu Llobregat--Ãltim tram"
+        "title": " Riu Llobregat--Ãltim tram"
       },
       "geometry": {
         "type": "Polygon",
@@ -2197,7 +2211,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "name": "Delta del Llobregat PNat--Maresmes de Cal Nani"
+        "title": "Delta del Llobregat PNat--Maresmes de Cal Nani"
       },
       "geometry": {
         "type": "Polygon",
@@ -2232,7 +2246,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "name": "Delta del Llobregat PNat--Calaixos de depuraciÃ³"
+        "title": "Delta del Llobregat PNat--Calaixos de depuraciÃ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2269,9 +2283,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "TurÃ³ de la Magarola",
         "type": "hotspot",
-        "categorie": "main"
+        "categorie": "main",
+        "title": "TurÃ³ de la Magarola",
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
@@ -2284,8 +2299,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": " Delta de l'Ebre PNat--Bassa de les Olles",
-        "type": ""
+        "type": "",
+        "title": " Delta de l'Ebre PNat--Bassa de les Olles"
       },
       "geometry": {
         "type": "Polygon",
@@ -2334,7 +2349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": " Delta de l'Ebre PNat--El GolerÃ³"
+        "title": " Delta de l'Ebre PNat--El GolerÃ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2391,7 +2406,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta de l'Ebre PNat--Canyissar depuraciÃ³ GolerÃ³"
+        "title": "Delta de l'Ebre PNat--Canyissar depuraciÃ³ GolerÃ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2456,7 +2471,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta de l'Ebre--Port d'Illa de Mar"
+        "title": "Delta de l'Ebre--Port d'Illa de Mar"
       },
       "geometry": {
         "type": "Polygon",
@@ -2513,7 +2528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta de l'Ebre PNat--RacÃ³ del Fangar"
+        "title": "Delta de l'Ebre PNat--RacÃ³ del Fangar"
       },
       "geometry": {
         "type": "Polygon",
@@ -2550,7 +2565,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delta de l'Ebre PNat--Punta del Fangar"
+        "title": "Delta de l'Ebre PNat--Punta del Fangar"
       },
       "geometry": {
         "type": "Polygon",
@@ -2603,7 +2618,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": " Delta de l'Ebre PNat--Platja de la Marquesa"
+        "title": " Delta de l'Ebre PNat--Platja de la Marquesa"
       },
       "geometry": {
         "type": "Polygon",
