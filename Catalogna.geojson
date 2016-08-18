@@ -4,11 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "delta del Llobregat",
         "type": "hotspot",
         "categorie": ""
@@ -505,11 +500,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1118,6 +1109,274 @@
         "coordinates": [
           0.8417214453220367,
           40.72971821928707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9359943866729737,
+          41.681882791294186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9580019116401672,
+          41.678280930127336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "hide",
+        "name": "Aguait de Vila-sana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9391218423843383,
+          41.68110554353989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terre de l'Estany",
+        "type": "viewpoint",
+        "categorie": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9391124546527861,
+          41.681885796099756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "hide",
+        "name": "Aguait Saulons del Suat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9505480527877808,
+          41.67958307228081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "categorie": "hide",
+        "name": "Aguait d'Ivars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9566889703273772,
+          41.68100137560167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "viewpoint",
+        "name": "Mirador Vallmajor",
+        "categorie": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9413936734199523,
+          41.677814155832735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Termenal",
+        "type": "viewpoint",
+        "categorie": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9459494054317474,
+          41.67892098637062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categorie": "open",
+        "name": "Perogola de l'Estany",
+        "type": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9518060088157654,
+          41.67928558520321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cal Sinén",
+        "type": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9450522065162658,
+          41.686083372472275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Estany d'Ivars i Vila-sana",
+        "type": "hotpost",
+        "categorie": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.9375715255737304,
+              41.67582882476762
+            ],
+            [
+              0.9387731552124022,
+              41.67544417231269
+            ],
+            [
+              0.9410905838012694,
+              41.67688660716532
+            ],
+            [
+              0.9465408325195312,
+              41.67749562550806
+            ],
+            [
+              0.9481287002563477,
+              41.67807258493776
+            ],
+            [
+              0.9509181976318359,
+              41.67807258493776
+            ],
+            [
+              0.953664779663086,
+              41.67807258493776
+            ],
+            [
+              0.9561967849731444,
+              41.678745697735074
+            ],
+            [
+              0.9567117691040039,
+              41.67688660716532
+            ],
+            [
+              0.9599733352661132,
+              41.67733535808188
+            ],
+            [
+              0.9591150283813475,
+              41.68063678649003
+            ],
+            [
+              0.9593296051025391,
+              41.68191884895183
+            ],
+            [
+              0.9619903564453125,
+              41.68252781967316
+            ],
+            [
+              0.9624195098876952,
+              41.68544438901497
+            ],
+            [
+              0.9575700759887695,
+              41.68688659972789
+            ],
+            [
+              0.9544801712036132,
+              41.68836082615359
+            ],
+            [
+              0.9508323669433593,
+              41.68864925780732
+            ],
+            [
+              0.9440946578979492,
+              41.68826468198164
+            ],
+            [
+              0.9437513351440429,
+              41.68640586641565
+            ],
+            [
+              0.9384727478027344,
+              41.68345729018913
+            ],
+            [
+              0.9358119964599609,
+              41.68323293646627
+            ],
+            [
+              0.9343528747558594,
+              41.68147012999572
+            ],
+            [
+              0.9347820281982423,
+              41.68009190220902
+            ],
+            [
+              0.9356832504272461,
+              41.67961111812966
+            ],
+            [
+              0.9363269805908202,
+              41.677944372178146
+            ],
+            [
+              0.9372711181640625,
+              41.6762134749237
+            ],
+            [
+              0.9375715255737304,
+              41.67582882476762
+            ]
+          ]
         ]
       }
     }
