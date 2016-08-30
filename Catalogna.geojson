@@ -1202,7 +1202,7 @@
       "properties": {
         "type": "viewpoint",
         "categorie": "",
-        "title": "Cal SinÃÂ©n",
+        "title": "Cal SinÃÂÃÂ©n",
         "description": ""
       },
       "geometry": {
@@ -1347,7 +1347,7 @@
       "properties": {
         "categorie": "sub",
         "type": "hotspot",
-        "title": "Estany d'Ivars--Ca l'AragonÃÂ¨s",
+        "title": "Estany d'Ivars--Ca l'AragonÃÂÃÂ¨s",
         "description": "http://ebird.org/ebird/hotspot/L4793385"
       },
       "geometry": {
@@ -1391,7 +1391,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": "Estany d'Ivars--Canyissar de depuraciÃÂ³",
+        "title": "Estany d'Ivars--Canyissar de depuraciÃÂÃÂ³",
         "description": "http://ebird.org/ebird/hotspot/L4836761"
       },
       "geometry": {
@@ -1655,7 +1655,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": "Delta del Llobregat PNat--Mirador de Cal FrancÃÂ¨s i Platja del Remolar"
+        "title": "Delta del Llobregat PNat--Mirador de Cal FrancÃÂÃÂ¨s i Platja del Remolar"
       },
       "geometry": {
         "type": "Polygon",
@@ -2176,7 +2176,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": " Riu Llobregat--ÃÂltim tram"
+        "title": " Riu Llobregat--ÃÂÃÂltim tram"
       },
       "geometry": {
         "type": "Polygon",
@@ -2246,7 +2246,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "sub",
-        "title": "Delta del Llobregat PNat--Calaixos de depuraciÃÂ³"
+        "title": "Delta del Llobregat PNat--Calaixos de depuraciÃÂÃÂ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2285,7 +2285,7 @@
       "properties": {
         "type": "hotspot",
         "categorie": "main",
-        "title": "TurÃÂ³ de la Magarola",
+        "title": "TurÃÂÃÂ³ de la Magarola",
         "marker-symbol": ""
       },
       "geometry": {
@@ -2349,7 +2349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": " Delta de l'Ebre PNat--El GolerÃÂ³"
+        "title": " Delta de l'Ebre PNat--El GolerÃÂÃÂ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2406,7 +2406,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Delta de l'Ebre PNat--Canyissar depuraciÃÂ³ GolerÃÂ³"
+        "title": "Delta de l'Ebre PNat--Canyissar depuraciÃÂÃÂ³ GolerÃÂÃÂ³"
       },
       "geometry": {
         "type": "Polygon",
@@ -2528,7 +2528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Delta de l'Ebre PNat--RacÃÂ³ del Fangar"
+        "title": "Delta de l'Ebre PNat--RacÃÂÃÂ³ del Fangar"
       },
       "geometry": {
         "type": "Polygon",
@@ -3326,6 +3326,284 @@
           [
             0.6329154968261719,
             41.53363964385742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub",
+        "title": "L'Albufera PN--Tancat de la Pipa",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3458118438720703,
+              39.368909513172376
+            ],
+            [
+              -0.35173416137695307,
+              39.36605624117889
+            ],
+            [
+              -0.34782886505126953,
+              39.35796027675451
+            ],
+            [
+              -0.3414344787597656,
+              39.36114568620494
+            ],
+            [
+              -0.3458118438720703,
+              39.368909513172376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33242225646972656,
+            39.37637391746909
+          ],
+          [
+            -0.33542633056640625,
+            39.375246014224864
+          ],
+          [
+            -0.33843040466308594,
+            39.37690468916103
+          ],
+          [
+            -0.3412628173828125,
+            39.38612620310459
+          ],
+          [
+            -0.34409523010253906,
+            39.39037167040837
+          ],
+          [
+            -0.3493309020996094,
+            39.39388725250263
+          ],
+          [
+            -0.3513908386230469,
+            39.39468320876038
+          ],
+          [
+            -0.358428955078125,
+            39.402973879803426
+          ],
+          [
+            -0.3643512725830078,
+            39.40867728929272
+          ],
+          [
+            -0.3659820556640625,
+            39.412656135956354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3199714422225952,
+          39.33908955431046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hotspot",
+        "categorie": "sub",
+        "title": "L'Albufera PN--El Raco de l'Olla"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3205132484436035,
+              39.33906051212102
+            ],
+            [
+              -0.31916141510009766,
+              39.33147593881293
+            ],
+            [
+              -0.3147411346435547,
+              39.32624758103423
+            ],
+            [
+              -0.3115653991699219,
+              39.32651315783681
+            ],
+            [
+              -0.31250953674316406,
+              39.331243575656785
+            ],
+            [
+              -0.3189253807067871,
+              39.339906879550696
+            ],
+            [
+              -0.3205132484436035,
+              39.33906051212102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31660258769989014,
+          39.345843610071576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hotspot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32362461090087885,
+          39.349288839825974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hotspot"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.31804561614990234,
+              39.347623286384355
+            ],
+            [
+              -0.3145265579223633,
+              39.344337694716465
+            ],
+            [
+              -0.31203746795654297,
+              39.34470276808521
+            ],
+            [
+              -0.31392574310302734,
+              39.349730630030095
+            ],
+            [
+              -0.3174877166748047,
+              39.348818008693556
+            ],
+            [
+              -0.31804561614990234,
+              39.347623286384355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3919297456741333,
+            39.36349317363222
+          ],
+          [
+            -0.3772258758544922,
+            39.360282985488524
+          ],
+          [
+            -0.372387170791626,
+            39.358142778093594
+          ],
+          [
+            -0.3693509101867676,
+            39.35571215296833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3701555728912353,
+            39.38840651550303
+          ],
+          [
+            -0.3691685199737549,
+            39.386582271545265
+          ],
+          [
+            -0.36253809928894043,
+            39.38184730676742
+          ],
+          [
+            -0.36090731620788574,
+            39.38009752746486
+          ],
+          [
+            -0.35866498947143555,
+            39.3808687626109
+          ],
+          [
+            -0.35375118255615234,
+            39.37440836840644
+          ],
+          [
+            -0.34882664680480957,
+            39.371090860508055
+          ],
+          [
+            -0.34796833992004395,
+            39.370269752968674
+          ],
+          [
+            -0.34608006477355957,
+            39.36803031969416
           ]
         ]
       }
