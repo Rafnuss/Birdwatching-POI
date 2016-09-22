@@ -706,6 +706,128 @@
           54.80266380864058
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Culmore Rubbish Dump ",
+        "Location": "on A2, 6 miles north of Derry city, turn right after security checkpoint",
+        "Access": "glaucous and Iceland gulls share pungent smells with curlew sandpiper, whimbrel, black-tailed godwit, goldeneye and red-breasted merganser."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.251405715942383,
+          55.06227252874555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Foyle Reserve ",
+        "Location": " east from Longfield Point to Roe estuary. ",
+        "Species": "3,300-acre reserve is left off A2 eastwards, at three particular points to reach three particular viewing points.",
+        "Access": "teal, wigeon; grazing swans and geese; Slavonian grebe, great northern, red-throated divers; little stint, spotted redshank on passage."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.112274169921875,
+          55.079153372273815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Roe Estuary ",
+        "Location": " left off A2 before Bellarena levelcrossing",
+        "Access": "wintering bar-tailed godwit, curlew, redshank and wigeon; associated raptors. The Myroe Banks to the south offer views at high tide over the lough: in calm conditions Slavonian grebe and divers can be seen (winter)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98704719543457,
+          55.10660944961233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Magilligan Point",
+        "Location": "",
+        "Species": "",
+        "Access": "wintering great northern and redthroated divers, long-tailed duck, snow bunting. Out at sea, gannet and skuas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.963701248168945,
+          55.19175540090461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gortmore",
+        "Location": "public carpark signposted at Downhill ",
+        "Access": " cliff-breeding fulmar, rock-dove, buzzard, peregrine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.877505779266357,
+          55.14886180758612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Castlerock Strand and the Barmouth Pier, north off A2",
+        "Name": "Bann Estuary",
+        "Access": " in winter, eider, goldeneye, great-crested grebe, shelduck, red-breasted merganser, migrating waders. Real rarities have included Sabine's gull, Forster's tern and white-rumped sandpiper."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7708396911621085,
+          55.16729945241829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Beg",
+        "Location": "1 mile west of Toome take Bellaghy road, turn right after 1 mile, then right",
+        "Access": "autumn passage - scarce green, pectoral and wood sandpipers, rare longbilled dowitcher, Wilson's phalarope; winter waders include jack snipe; winter wildfowl gadwall, mallard, pintail, pochard, shoveler and tufted duck; kestrel, peregrine; lapwing, meadow pipit and snipe breed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47918701171875,
+          54.79454953342217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ballyronan Point, Lough Neagh ",
+        "Location": "on B18, south off A6, north-west of Toome",
+        "Access": " in winter largest concentration of scaup in Ireland; goldeneye, pochard, tufted duck."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.479101181030273,
+          54.74805898971728
+        ]
+      }
     }
   ]
 }
