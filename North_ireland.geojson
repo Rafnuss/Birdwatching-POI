@@ -1,0 +1,833 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groomsport Harbour",
+        "Location": " 3 miles east of Bangor",
+        "Species": "breeding ringed plover and arctic tern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.616642236709595,
+          54.67698234271786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Copeland Island Bird Observatory",
+        "Access": "Access by boat from Donaghadee: permission required in advance from Bookings Secretary, Neville McKee, 67 Temple Rise, Templepatrick, Antrim BT39 OAG. Tel(01849) 433068",
+        "Location": "",
+        "Species": " Northern Ireland's largest Manx shearwater colony, storm petrels appear summer and autumn; a variety of rare migrants have been sighted on the islands, the more regular ones being red start, pied flycatcher, and tree pipit; one-of sightings have included autumnal bluethroat, red-breasted flycatcher, woodchat shrike."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.531916618347168,
+          54.67541909189064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Access": " wetland of international importance supporting 25,000 wildfowl, 50,000 waders. Pale-bellied brent geese numbers top the 12,000 mark in October, a few dark-bellied brant and black brant among them. Significant percentages of bar and blacktailed godwit, curlew, dunlin, gadwall, goldeneye, golden plover, greenshank, knot, lapwing, oystercatcher, red-breasted merganser, redshank, shelduck, shoveler and whooper swan, have been recorded. Important breeding species include Arctic, common and Sandwich terns; cormorant.",
+        "Species": "",
+        "Name": "Strangford Lough and Islands",
+        "Location": " 13 miles south and east of Belfast. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.593757629394531,
+          54.456468365360344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ards East Coast",
+        "Location": "on A2 - harbours, beaches, rocky outcrops",
+        "Species": "",
+        "Access": "glaucous and Iceland gulls in Portavogie harbour; redshanks, ringed plover, turnstone, breeding cormorant along the coast."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4389190673828125,
+          54.46105846729428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wildlife & Wetlands Trust Conservation Centre",
+        "Location": "2 miles south-east of Comber",
+        "Species": "Castle Espie",
+        "Access": ": brent goose, shelduck, wigeon, black-tailed godwit, and ruff. There is also a collection of exotic wildfowl. Best within 2 hours of high tide."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.696314573287964,
+          54.53005369242663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Island Reagh",
+        "Location": "south of Castle Espie",
+        "Access": "pintail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.643882751464844,
+          54.50902414204355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Island Hill ",
+        "Access": "brent goose, wintering waders",
+        "Location": "2-1/2 miles east of Comber"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.689802169799805,
+          54.54628082544482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Greyabbey",
+        "Access": "brent, occasional black brant goose."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.564424991607666,
+          54.53492811226489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Access": "many of the common lough species.",
+        "Name": "Strangford Bay "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.603885650634766,
+          54.40264598395411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quoile Pondage ",
+        "Location": "1 mile north of Downpatrick, off A25",
+        "Species": "For access to Castle Island and Reserve, contact the Warden, Quoile Countryside Centre, 5 Quay Rd, Downpatrick BT30 7JB. Tel (01396) 615520. ",
+        "Access": "mute swan, heron and waders; breeding gadwall; wintering wigeon, teal, tufted duck, pochard on pondage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69941520690918,
+          54.349678360319444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Killard",
+        "Location": "4 miles south of Strangford",
+        "Access": "arctic and great skua on passage, purple sandpiper in winter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.539426803588867,
+          54.314770905512965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Killough Harbour - Strand Lough",
+        "Location": "off A2 3 miles south of Ardglass",
+        "Species": "A freshwater lake and estuary",
+        "Access": " late wintering light-bellied brent goose; lesser yellowlegs, Temminck's stint and white-winged black tern are among rarities recorded, plus ruffs and common estuarine waders."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.637574195861816,
+          54.25645073811819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St John's Point",
+        "Location": "signposted off A2 south of Killough",
+        "Access": "Manx shearwaters, storm petrels summer to autumn. On-shore winds also blow skuas in in spring and autumn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.659675598144531,
+          54.22580460694317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dundrum Inner Bay - Murlough",
+        "Access": "wintering pale-bellied brent goose, autumnal passage waders; oystercatcher. Common scoter, occasionally velvet and, even, surf scoter in the Outer Bay. Breeding cuckoos and grasshopper warblers in the dunes.",
+        "Location": "A2 4 miles north of Newcastle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.836915969848633,
+          54.254946549440106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "significant number of pale-bellied brent goose and scaup in winter; breeding Arctic, common and Sandwich tern on islands (landing on islands strictly prohibited). Occasional Slavonian grebe, long-tailed duck among commoner goldeneye, red-breasted merganser.",
+        "Access": "significant number of pale-bellied brent goose and scaup in winter; breeding Arctic, common and Sandwich tern on islands (landing on islands strictly prohibited). Occasional Slavonian grebe, long-tailed duck among commoner goldeneye, red-breasted merganser.",
+        "Location": "Greencastle Point, south-west of Kilkeel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.106424331665039,
+          54.04054223664439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rathlin Island",
+        "Location": "the main bird colonies are in the Kebble National Nature Reserve by the west lighthouse and in the cliffs to the north. The island is reached by boat from Ballycastle "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.207618713378906,
+          55.29925178079367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ramore Head",
+        "Location": "he peninsula at Portrush",
+        "Access": "on-shore winds bring winter flypasts of cormorant, fulmar and gannet; in autumn strong north-west winds bring flights of Leach's and storm petrels, shag, Manx and sooty shearwaters, plus Arctic, great and pomarine skuas; and Sabine's gulls in autumn. Ramore Head is particularly rewarding from August to October"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.662365794181824,
+          55.21208002641797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Giant's Causeway",
+        "Location": "/4 mile north of Bushmills, off B146",
+        "Access": "buzzard, kestrel, peregrine, sparrowhawk; gannet, occasional black and common guillemots, razorbill; eider duck; chough; purple sandpiper; twite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.502404212951659,
+          55.245588853714345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sheep Island",
+        "Location": " west of Ballycastle",
+        "Access": "breeding cormorant numbers of European significance.",
+        "Species": "cliff-breeding colonies of fulmar, guillemot, kittiwake, Manx shearwater, puffin, razorbill, shag; peregrine, raven. Access to West Light platform only with RSPB warden Tel (0126 57) 63969."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3521575927734375,
+          55.24845107633752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fair Head",
+        "Location": "signposted off A2 west of Ballycastle",
+        "Access": "reeding buzzard, kestrel, peregrine, sparrowhawk; chough; twite. Golden eagles nested till 1960."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.152622699737549,
+          55.22201049071759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Murlough Bay",
+        "Location": " as for Fair Head",
+        "Access": "eider, fulmar, buzzard."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.122689247131348,
+          55.21298901939239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Garry Bog",
+        "Access": "grasshopper waroler.",
+        "Location": "5 miles north of Ballvmonev"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.534461975097656,
+          55.109800793143805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rea's Wood",
+        "Location": "1/2 mile south of Antrim National Nature Reserve."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.233539581298828,
+          54.70706939067384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Swan Island",
+        "Species": "strictly no access to island view from Glynn-Maghermorne road. ",
+        "Access": "summer, breeding common, roseate, and Sandwich terns: red-breasted merganser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.785074234008789,
+          54.824073466392235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Larne Lough",
+        "Access": " winter, internationally significant numbers of pale-bellied brent goose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.790224075317383,
+          54.830952070473636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Portmore Lough",
+        "Location": "south-west of Glenavy west off B156 along George's Island Rd. ",
+        "Access": "wintering Bewick's and whooper swan, greylag goose, pochard, teal, wigeon; occasional autumn/spring marsh harrier. Access only with warden at present Tel (01846) 652406."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.278600692749023,
+          54.55817786689538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Access": "Dunluce Centre, Portrush. Nature quizzes, birdsong recordings",
+        "Name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.654067039489746,
+          55.20867953529412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oxford Island",
+        "Location": "Location signposted off M1, exit 10",
+        "Access": ": breeding great-crested grebe and heron; wintering wildfowl; fieldfare, redwing; grazing whooper and Bewick's swan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.375761032104492,
+          54.48928624927195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lurgan Park Lake, Lurgan",
+        "Access": "diving ducks, kingfisher, interesting occasional rarities."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3219451904296875,
+          54.46390207654726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Craigavon Lakes",
+        "Access": " irregular - many species as for Oxford Island; some goosander and, smew."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.380610466003418,
+          54.455844670485405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Peatlands Park",
+        "Access": " breeding woodcock, long-eared owl; in winter hen harrier, merlin, peregrine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.618490219116211,
+          54.48659397984652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Shark",
+        "Access": " breeding great-crested grebe and little grebe; in winter, gadwall, pintail and shoveler."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.363315582275391,
+          54.30911285820068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Upper Lough Erne",
+        "Location": "",
+        "Access": "5 per cent of the world's whooper swan overwintering. Nesting snipe, great crested grebe, curlew, redshank.",
+        "Species": "Access by hire cruiser or row boat, or via small roads off BS 114 and A509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.521514892578125,
+          54.21867900543369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moorlough Lough",
+        "Location": "on A34 Lisnaskea Belleek - Newtownbutler road",
+        "Access": " wintering whooper swan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3033225536346436,
+          54.83060600518334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Species": "Access restricted in breeding season. ",
+        "Access": " Ireland's largest heronry in weathered 400-year-old oak grove.",
+        "Name": "Inishfendra",
+        "Location": "island off Crom Estate west of Newtownbutler."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.441434860229492,
+          54.16710722867066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lower Lough Erne",
+        "Species": "Access by many tiny access roads off B81 and B82",
+        "Access": "breeding waders, snipe, curlew, redshank; great-crested grebe in significant numbers; a few corncrake, irregular parties of whooper swan. Raptors and golden plover rear young in the uplands."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.815399169921876,
+          54.48639454542944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Castlecaldwell Forest And Islands",
+        "Species": "Access to shoreline at all times. ",
+        "Location": "Location 4 miles east of Beileek off A47.",
+        "Access": "breeding garden, grasshopper, sedge and willow warblers, siskin; tufted duck, red-breasted merganser, heron, Sandwich terns on islands."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9879188537597665,
+          54.48629482785612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Castle Archdale Country Park And National Nature Reserve Islands",
+        "Location": " Inishmakill: 4 miles south of Kesh",
+        "Access": " island-breeding garden warbler; black-headed, lesser black-backed and greater black-backed gulls."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.718753814697265,
+          54.47652132594284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Navar Forest",
+        "Access": "hen harrier, merlin, peregrine, raven; crossbill.",
+        "Location": " off A46 10 miles north-west of Enniskillen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.885951995849609,
+          54.441397238404505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Carran/Lough Ross",
+        "Access": " whooper swan, Canada goose, wigeon, kingfisher.",
+        "Location": "off C444, west of Ely Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.858743667602539,
+          54.43525740810575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Upper Lough MacNean Lower Lough MacNean",
+        "Location": "north-west and south-east of Belcoo village",
+        "Access": "wintering Greenland white-fronted goose, whooper swan; great-crested grebe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.941398620605469,
+          54.307009668859465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pettigoe Plateau",
+        "Location": " first left off A35 east of Pettigoe",
+        "Access": "There are a number of points of access to this large area of blanket bogland and moors scattered with pools. Try first left off A35 east of Pettigoe. For dedicated birders only.  Species: breeding hen harrier, golden plover; wintering Greenland white-fronted goose."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.814626693725586,
+          54.55369821675568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Neagh",
+        "Access": "Species wintering waterfowl number up to 100,000, including 6 per cent of the world total of whooper swan; internationally significant numbers of Bewick's swan, pochard, tufted duck, scaup, goldeneye; nationally significant numbers of great crested grebe. These grebe make up an eighth of the British breeding population. Inland Sperrin Mountains: breeding golden plover, red grouse; buzzard, hen harrier, long-eared owl, peregrine, sparrowhawk, raven, plus crossbill, siskin in upland forests - Drum Manor, Gortin Glen, Knockmany, Lough Bradan, Seskinore. In the south of the county, Greenland white fronted geese graze by the Blackwater.",
+        "Location": "Lough Neagh is the largest freshwater lake in the British Isles. With Lough Beg and associated wetlands, it is a designated Ramsar Site - a wetland of international conservation importance. Its western shore, between the Ballinderry and Blackwater rivers, is in county Tyrone. Access points are few. Offshore in winter, enormous rafts of birds include the largest concentrations of diving duck in Britain and Ireland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4194488525390625,
+          54.60707357220758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ardboe And Newport Trench, Lough Neagh ",
+        "Location": "both south of Ballyronan a mile apart, left on to B73, off B160 after 4 miles",
+        "Access": "goldeneye, pochard, scaup, tufted duck; breeding shelduck. Inland, whooper and Bewick's swans graze the abandoned Kinrush airfield."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.513519287109375,
+          54.65417276642286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Annaghroe, River Blackwater",
+        "Location": "take B45 south off the A28, 1/4 mile west of Caledon; turn left after 1/4 mile ",
+        "Species": " view only from the public road. ",
+        "Access": " wintering Greenland white-fronted geese."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.85847282409668,
+          54.339546990471156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Grange, River Foyle ",
+        "Location": "8 miles north of Strabane, west off A5, towards Bready",
+        "Access": "grazing Bewick's and whooper swans, greylag, and rarely Greenland whitefronted geese in winter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.436027526855468,
+          54.90306658892034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sperrin Mountains",
+        "Location": "Sawel Mountain, north off B47 at Sperrin village",
+        "Access": "breeding golden plover, peregrine, raven, red grouse."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0058441162109375,
+          54.80266380864058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Culmore Rubbish Dump ",
+        "Location": "on A2, 6 miles north of Derry city, turn right after security checkpoint",
+        "Access": "glaucous and Iceland gulls share pungent smells with curlew sandpiper, whimbrel, black-tailed godwit, goldeneye and red-breasted merganser."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.251405715942383,
+          55.06227252874555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Foyle Reserve ",
+        "Location": " east from Longfield Point to Roe estuary. ",
+        "Species": "3,300-acre reserve is left off A2 eastwards, at three particular points to reach three particular viewing points.",
+        "Access": "teal, wigeon; grazing swans and geese; Slavonian grebe, great northern, red-throated divers; little stint, spotted redshank on passage."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.112274169921875,
+          55.079153372273815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Roe Estuary ",
+        "Location": " left off A2 before Bellarena levelcrossing",
+        "Access": "wintering bar-tailed godwit, curlew, redshank and wigeon; associated raptors. The Myroe Banks to the south offer views at high tide over the lough: in calm conditions Slavonian grebe and divers can be seen (winter)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98704719543457,
+          55.10660944961233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Magilligan Point",
+        "Location": "",
+        "Species": "",
+        "Access": "wintering great northern and redthroated divers, long-tailed duck, snow bunting. Out at sea, gannet and skuas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.963701248168945,
+          55.19175540090461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gortmore",
+        "Location": "public carpark signposted at Downhill ",
+        "Access": " cliff-breeding fulmar, rock-dove, buzzard, peregrine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.877505779266357,
+          55.14886180758612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Castlerock Strand and the Barmouth Pier, north off A2",
+        "Name": "Bann Estuary",
+        "Access": " in winter, eider, goldeneye, great-crested grebe, shelduck, red-breasted merganser, migrating waders. Real rarities have included Sabine's gull, Forster's tern and white-rumped sandpiper."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7708396911621085,
+          55.16729945241829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lough Beg",
+        "Location": "1 mile west of Toome take Bellaghy road, turn right after 1 mile, then right",
+        "Access": "autumn passage - scarce green, pectoral and wood sandpipers, rare longbilled dowitcher, Wilson's phalarope; winter waders include jack snipe; winter wildfowl gadwall, mallard, pintail, pochard, shoveler and tufted duck; kestrel, peregrine; lapwing, meadow pipit and snipe breed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47918701171875,
+          54.79454953342217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ballyronan Point, Lough Neagh ",
+        "Location": "on B18, south off A6, north-west of Toome",
+        "Access": " in winter largest concentration of scaup in Ireland; goldeneye, pochard, tufted duck."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.479101181030273,
+          54.74805898971728
+        ]
+      }
+    }
+  ]
+}
